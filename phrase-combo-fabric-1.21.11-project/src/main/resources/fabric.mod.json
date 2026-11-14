@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "phrasecombo",
+  "version": "1.0.0",
+  "name": "Phrase Combo",
+  "description": "Three hit phrases with a 1.1 second combo reset. Experimental client sound detection.",
+  "environment": "client",
+  "mixins": [
+    "phrasecombo.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "1.21.11",
+    "java": ">=21"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "hit1": {
+    "sounds": [
+      "phrasecombo:hit1"
+    ]
+  },
+  "hit2": {
+    "sounds": [
+      "phrasecombo:hit2"
+    ]
+  },
+  "hit3": {
+    "sounds": [
+      "phrasecombo:hit3"
+    ]
+  },
+  "silent": {
+    "sounds": []
+  }
+}
